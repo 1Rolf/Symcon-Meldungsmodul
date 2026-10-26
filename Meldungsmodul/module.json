@@ -1,0 +1,13 @@
+{
+    "id": "{907E7F63-6A9B-4BFB-83E4-B02CBD005AE4}",
+    "name": "Meldungsmodul",
+    "type": 3,
+    "vendor": "",
+    "aliases": [
+        "Meldungsmodul"
+    ],
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "MLD"
+}
